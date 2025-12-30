@@ -88,7 +88,9 @@ These filters allow users to drill down into specific segments for deeper analys
 ---
 
 ## 📎 Dashboard Preview
-A PDF snapshot of the dashboard is included in the repository to demonstrate layout and insights.
+
+![Power_Bi_E-Commerce_Dashboard](Final_Dashboard_Image.png)
+
 
 ---
 
