@@ -1,117 +1,104 @@
-📊 E-Commerce Sales Analysis Dashboard (Power BI)
-📌 Project Overview
+# 📊 E-Commerce Sales Analysis Dashboard (Power BI)
 
-This project presents an interactive Power BI dashboard built to analyze e-commerce sales performance using transactional data.
-The dashboard focuses on Year-to-Date (YTD) and Quarter-to-Date (QTD) metrics to help business stakeholders track revenue, product performance, and customer engagement trends.
+## 📌 Project Overview
+This project showcases an interactive **Power BI dashboard** developed to analyze **e-commerce sales performance** using transactional data.  
+The dashboard focuses on **Year-to-Date (YTD)** and **Quarter-to-Date (QTD)** metrics to help business users monitor revenue trends, product performance, and customer engagement.
 
-The solution demonstrates end-to-end analytics skills — from data preparation and modeling to KPI design, DAX calculations, and dashboard storytelling.
+This project demonstrates **data analysis, DAX, data modeling, and dashboard storytelling skills**.
 
-🗂 Dataset Details
+---
 
-The dataset represents e-commerce product sales and includes the following fields:
+## 🗂 Dataset Details
+The dataset represents e-commerce product sales and includes the following columns:
 
-Product Category
+- Product Category  
+- Product Description  
+- Price (Dollar)  
+- Number of Reviews  
+- Shipment  
+- Order Date  
 
-Product Description
+Source file: `E-Commerce Data.xlsx`
 
-Price (Dollar)
+---
 
-Number of Reviews
+## 🎯 Key Performance Indicators (KPIs)
+The following business KPIs were designed and implemented using DAX:
 
-Shipment
+- **YTD Sales**  
+  Measures total revenue generated year-to-date to evaluate overall performance.
 
-Order Date
+- **QTD Sales**  
+  Tracks quarterly sales figures to identify recent trends and fluctuations.
 
-Source file: E-Commerce Data.xlsx
+- **YTD Products Sold**  
+  Represents the total quantity of products sold year-to-date to understand demand.
 
-🎯 Business KPIs Implemented
+- **YTD Reviews**  
+  Captures total customer reviews year-to-date to assess customer engagement.
 
-The dashboard tracks the following key performance indicators (KPIs):
+---
 
-YTD Sales
-Measures total revenue generated year-to-date to evaluate overall business performance.
+## 📈 Visualizations Included
+The dashboard contains the following analytical visuals:
 
-QTD Sales
-Tracks quarterly sales to identify short-term trends and seasonal patterns.
+1. **YTD Sales by Month (Line Chart)**  
+   Displays monthly sales trends to identify seasonality and growth patterns.
 
-YTD Products Sold
-Analyzes total product volume sold to understand demand and movement.
+2. **YTD Sales by Week (Column Chart)**  
+   Shows weekly sales performance to highlight short-term fluctuations.
 
-YTD Reviews
-Captures year-to-date customer reviews as a proxy for engagement and customer satisfaction.
+3. **Sales by Product Category (Table / Heat Map)**  
+   Provides a category-level comparison of sales contribution.
 
-📈 Visualizations Included
+4. **Top 5 Products by YTD Sales (Bar Chart)**  
+   Highlights the top revenue-generating products.
 
-The dashboard includes five core analytical visuals designed for clarity and business impact:
+5. **Top 5 Products by YTD Reviews (Bar Chart)**  
+   Identifies the most reviewed products to understand customer preferences.
 
-YTD Sales by Month (Line Chart)
+---
 
-Identifies sales trends, seasonality, and growth patterns over time.
+## 🎛 Filters & Interactivity
+The dashboard supports dynamic filtering using:
 
-YTD Sales by Week (Column Chart)
+- Product Category slicer  
+- Quarter slicer  
 
-Highlights weekly performance fluctuations and short-term sales momentum.
+These filters allow users to drill down into specific segments for deeper analysis.
 
-Sales by Product Category (Heat Map / Table)
+---
 
-Provides a high-level comparison of revenue contribution across product categories.
+## 🛠 Tools & Technologies Used
+- Power BI Desktop  
+- DAX (Time intelligence calculations: YTD, QTD)  
+- Microsoft Excel  
+- Data Modeling & Relationships  
+- Data Visualization & Dashboard Design  
 
-Top 5 Products by YTD Sales (Bar Chart)
+---
 
-Showcases the highest revenue-generating products.
+## 📌 Skills Demonstrated
+- Business KPI definition and analysis  
+- DAX time-intelligence calculations  
+- Data modeling and aggregation  
+- Analytical storytelling using Power BI  
+- Interactive dashboard development  
 
-Top 5 Products by YTD Reviews (Bar Chart)
+---
 
-Identifies the most reviewed products to understand customer interest and preference.
+## 📎 Dashboard Preview
+A PDF snapshot of the dashboard is included in the repository to demonstrate layout and insights.
 
-🎛 Filters & Interactivity
+---
 
-The dashboard supports dynamic slicing for enhanced analysis:
+## 🚀 Use Case
+This project can be used as:
+- A portfolio project for Data Analyst / BI Analyst roles  
+- A reference for Power BI KPI and dashboard design  
+- An example of business-focused data storytelling  
 
-Product Category filter
+---
 
-Quarter filter
-
-These allow users to drill down and analyze performance across different segments.
-
-🛠 Tools & Technologies Used
-
-Power BI Desktop
-
-DAX (Time-intelligence calculations for YTD & QTD metrics)
-
-Microsoft Excel (Data source)
-
-Data Modeling & Relationships
-
-Data Visualization & Dashboard Design
-
-📌 Key Skills Demonstrated
-
-Business-driven KPI definition
-
-Time-intelligence calculations (YTD, QTD)
-
-Data modeling and aggregation
-
-Analytical storytelling with visuals
-
-Dashboard performance optimization
-
-Stakeholder-focused reporting
-
-
-A PDF snapshot of the dashboard is included to showcase layout and insights.
-(See attached dashboard image in repository)
-
-🚀 How This Project Can Be Used
-
-Portfolio demonstration for Data Analyst / BI Analyst roles
-
-Reference for Power BI KPI design
-
-Example of business-focused dashboard storytelling
-
-📬 Contact
-
-If you’d like to discuss this project or explore collaboration opportunities, feel free to connect.
+## 📬 Contact
+For questions, feedback, or collaboration opportunities, feel free to reach out.
