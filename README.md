@@ -102,5 +102,4 @@ This project can be used as:
 
 ---
 
-## 📬 Contact
-For questions, feedback, or collaboration opportunities, feel free to reach out.
+
